@@ -7,6 +7,7 @@ There are 3 major tables in this project, Users were then seperated into 2 table
 
 # Users Roles and Actions 
 1, Seller: Add products, update products and delete products
+
 2, Buyer: Deposit coins and make purchases(get products)
 
 # Database Diagram Tool
